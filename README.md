@@ -1,4 +1,6 @@
 # CI Simulation Project
+The CI Simulation Project is an educational endeavour designed to provide a hands-on experience with the principles of Continuous Integration (CI) in software development. This project aims to demystify the CI process by simulating a simplified pipeline, emphasizing key concepts such as linting and automated testing.
+
 
 ## Abstract
 
