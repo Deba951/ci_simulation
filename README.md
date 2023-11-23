@@ -35,19 +35,20 @@ The project covers the following concepts:
 
 ## Project Structure
 
-ci_simulation/
-|-- src/
-| |-- init.py
-| |-- code.py
-| |-- main.py
-|-- tests/
-| |-- init.py
-| |-- test_code.py
-|-- requirements.txt
-|-- README.md
-|-- ci_simulation.sh
-|-- venv/
-
+```
+    ci_simulation/
+    |-- src/
+    | |-- init.py
+    | |-- code.py
+    | |-- main.py
+    |-- tests/
+    | |-- init.py
+    | |-- test_code.py
+    |-- requirements.txt
+    |-- README.md
+    |-- ci_simulation.sh
+    |-- venv/
+```
 
 ## Getting Started
 
