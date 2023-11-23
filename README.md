@@ -49,10 +49,6 @@ ci_simulation/
 |-- venv/
 
 
-## Flowchart
-
-[// Add a flowchart or block diagram illustrating the CI pipeline flow.]
-
 ## Getting Started
 
 ### Prerequisites
@@ -65,7 +61,7 @@ ci_simulation/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ci-simulation.git
+    git clone https://github.com/Deba951/ci_simulation.git
     ```
 
 2. Navigate to the project directory:
