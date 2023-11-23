@@ -3,7 +3,7 @@
 echo "Running CI pipeline..."
 
 # Activate the virtual environment
-source venv/bin/activate  # On Windows, use "venv\Scripts\activate"
+source venv/bin/activate  # For Windows, --> "venv\Scripts\activate"
 
 # Run linting
 python src/main.py
